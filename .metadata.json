@@ -2,5 +2,9 @@
   {
     "package": "PetfindeR",
     "oncran": true
+  },
+  {
+    "package": "Rpoet",
+    "oncran": true
   }
 ]

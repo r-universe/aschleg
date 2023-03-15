@@ -8,3 +8,8 @@
 	url = https://github.com/aschleg/petfinder
 	shallow = true
 	registered = true
+[submodule "Rpoet"]
+	path = Rpoet
+	url = https://github.com/aschleg/rpoet
+	shallow = true
+	registered = true
